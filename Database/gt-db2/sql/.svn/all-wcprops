@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/gt-db/!svn/ver/82/trunk/sql
+END
+access_requirement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gt-db/!svn/ver/72/trunk/sql/access_requirement.sql
+END
+OutdoorPVP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gt-db/!svn/ver/72/trunk/sql/OutdoorPVP.sql
+END
+locales_gossip_menu_option.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gt-db/!svn/ver/78/trunk/sql/locales_gossip_menu_option.sql
+END
+game_tele.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/gt-db/!svn/ver/72/trunk/sql/game_tele.sql
+END
+locales_page_text.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gt-db/!svn/ver/78/trunk/sql/locales_page_text.sql
+END
+locales_npc_text.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gt-db/!svn/ver/78/trunk/sql/locales_npc_text.sql
+END
+trinity_string.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gt-db/!svn/ver/73/trunk/sql/trinity_string.sql
+END
+script_texts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gt-db/!svn/ver/72/trunk/sql/script_texts.sql
+END
+locales_achievement_reward.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gt-db/!svn/ver/79/trunk/sql/locales_achievement_reward.sql
+END
+db_script_string.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gt-db/!svn/ver/72/trunk/sql/db_script_string.sql
+END
+locales_item.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gt-db/!svn/ver/72/trunk/sql/locales_item.sql
+END
+locales_gameobject.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gt-db/!svn/ver/72/trunk/sql/locales_gameobject.sql
+END
+locales_quest.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gt-db/!svn/ver/78/trunk/sql/locales_quest.sql
+END
+game_event.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gt-db/!svn/ver/74/trunk/sql/game_event.sql
+END
+creature_ai_texts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gt-db/!svn/ver/72/trunk/sql/creature_ai_texts.sql
+END
+areatrigger_teleport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gt-db/!svn/ver/72/trunk/sql/areatrigger_teleport.sql
+END
+locales_gossip_menu_option_tdb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gt-db/!svn/ver/72/trunk/sql/locales_gossip_menu_option_tdb.sql
+END
+areatrigger_tavern.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gt-db/!svn/ver/72/trunk/sql/areatrigger_tavern.sql
+END
+locales_creature.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gt-db/!svn/ver/72/trunk/sql/locales_creature.sql
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gt-db/!svn/ver/72/trunk/sql/Readme.txt
+END
+command.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/gt-db/!svn/ver/82/trunk/sql/command.sql
+END
+locales_points_of_interest.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gt-db/!svn/ver/72/trunk/sql/locales_points_of_interest.sql
+END
+transports.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gt-db/!svn/ver/72/trunk/sql/transports.sql
+END
